@@ -3,7 +3,7 @@ echo ".... Script to Rename Images ...."
 
 count=1
 # variable to store directory name
-directory_name="Character_Keyhole_Samples"
+directory_name="A_testing2"
 # change the value of the variable to required directory
 
 for img in $directory_name/*;
@@ -14,6 +14,6 @@ do
 	# full path of images has to be specified in mv command
 	# as they are not in currently activated directory
 
-	mv $img /home/jasmeet/PycharmProjects/RealHarryPotter_Interactive_Wand/$directory_name/$count.jpg
+	mv $img /home/jasmeet/PycharmProjects/Interactive_Harry_Potter_Wand/$directory_name/$count.jpg
 	let count++
 done
