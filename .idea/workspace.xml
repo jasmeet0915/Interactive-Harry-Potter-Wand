@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4656b48c-91a6-4cd3-8723-0d7dc8e4dd80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training_SVM.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,22 +28,15 @@
   </component>
   <component name="ProjectId" id="1Psy3TnU8CQNQalv6NiTUpxUzao" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Character_Recognition" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../opencv_playground" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.HarryPotterWand">
     <configuration name="Character_Training" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -179,10 +172,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="471" y="101" key="FileChooserDialogImpl" timestamp="1583502937840">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="471" y="101" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1583502937840" />
+    <state x="344" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1583502913330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="344" y="212" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1583502913330" />
   </component>
 </project>

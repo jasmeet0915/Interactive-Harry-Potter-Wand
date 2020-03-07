@@ -2,7 +2,7 @@
 <br>
 <p>Bring the Wizarding World of Harry Potter to the real world using a Raspberry Pi with Machine Learning and Computer vision</p>
 <br>
-<a href="https://www.instructables.com/id/Real-Working-Harry-Potter-Wand-Using-Computer-Visi/" target = "_blank"> Segite the full written tutorial with build instructions</a>
+<a href="https://www.instructables.com/id/Real-Working-Harry-Potter-Wand-Using-Computer-Visi/" target = "_blank"> See the full written tutorial with build instructions</a>
 <h2><b>Hardware Used:</b></h2>
 <br>
 <ol type = "i">

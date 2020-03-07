@@ -27,6 +27,7 @@ print("...X_Train and Y_Train created...")
 
 
 train_features, test_features, train_labels, test_labels = train_test_split(X_Train, Y_Train, test_size=0.25, random_state=0)
+print(type(test_features))
 
 # SVM classifier created
 clf = SVC(kernel='linear')
