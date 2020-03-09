@@ -1,4 +1,4 @@
 #ignore .csv database
 A_ZHandwrittenData.csv
-/.idea/
-/Testing
+/.idea/*
+/Testing/*
