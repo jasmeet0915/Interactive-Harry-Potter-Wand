@@ -1,0 +1,4 @@
+# file to ignore files
+A_ZHandwrittenData.csv
+/.idea/*
+/Testing/*
